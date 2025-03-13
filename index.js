@@ -1,0 +1,1 @@
+//TODO- ADD fighter class to read using app.jsgt
